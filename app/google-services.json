@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834130570336",
+    "project_id": "fireapp-6b17d",
+    "storage_bucket": "fireapp-6b17d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834130570336:android:e9f10756f4eeeb075b6705",
+        "android_client_info": {
+          "package_name": "com.example.weatherapptutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834130570336-jjs10b2delbcmoarooc586dvn79unkda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBET3xWyvvBySoary5os0Gx204iE15U-hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834130570336-jjs10b2delbcmoarooc586dvn79unkda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
